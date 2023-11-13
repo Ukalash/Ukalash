@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ukalash
+- 👀 I’m interested in exploring new technologies, coding, and contributing to open-source projects.
+- 🌱 I’m currently learning web development with a focus on front-end technologies like React.
+- 💞️ I’m looking to collaborate on projects that involve creating meaningful and impactful applications.
+- 📫 How to reach me: Feel free to connect with me on yuriikalashnik@gmail.com or https://twitter.com/@UKalasnik83.
